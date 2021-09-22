@@ -10,7 +10,7 @@
 - 📝 코틀린 및 마크다운 문법 숙지 
 
 
-Click [📎 참조 : 코틀린 문법 정리](https://eli1429.tistory.com/2) 
+[📎 참조 : 코틀린 문법 정리](https://eli1429.tistory.com/2) 
 
 <br>
 <br>
