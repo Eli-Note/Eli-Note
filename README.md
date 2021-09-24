@@ -1,5 +1,5 @@
 ###### 2021.09.24 - 진행중
-##### - 📝 Kotlin I Scope Funtion 숙지 및 BMI계산 App만들기
+##### - 📝 Kotlin Scope Funtion 숙지 및 BMI계산 App만들기
 ---
 
 ###### 2021.09.23 - 2021.09.24
